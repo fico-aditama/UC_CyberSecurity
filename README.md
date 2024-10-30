@@ -143,7 +143,7 @@ curl -H "x-user-id: managerFinance" http://localhost:3000/finance-manager
 
 ```bash
 # Clone repository
-git clone [repository-url]
+git clone -b Sesi-ALP https://github.com/fico-aditama/UC_CyberSecurity
 cd google-oauth-app
 
 # Install dependencies
